@@ -1,6 +1,21 @@
-<h1 align="center">⚡ C-Wire ⚡</h1>
 
-🔴 Ce readme doit absolument être lu sur le github et non au format téléchargé
+<h1 align="center"> 
+⚡ C-Wire ⚡
+</h1>
+</p>
+<p align="center"> 
+  <a href="[https://github.com/jkengineer42/C-Wire">
+    <img src="https://img.shields.io/github/contributors/jkengineer42/C-Wire.svg?style=for-the-badge" alt="Contributors" /> </a>
+  <a href="https://github.com/jkengineer42/C-Wire">
+    <img alt="Issues" src="https://img.shields.io/github/issues/jkengineer42/C-Wire?style=for-the-badge">
+    </a>
+  <a href="https://github.com/jkengineer42/C-Wire">
+    <img alt="Forks" src="https://img.shields.io/github/forks/jkengineer42/C-Wire.svg?style=for-the-badge"></a>
+  <a href="https://github.com/jkengineer42/C-Wire">
+    <img alt="Stars" src="https://img.shields.io/github/stars/jkengineer42/C-Wire.svg?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/jkengineer42/C-Wire/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
+</p>
 
 ## Description du projet
 
